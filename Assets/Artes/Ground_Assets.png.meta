@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: f0a3c5b22787d184bad3fdc502e73353
+timeCreated: 1457152754
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ground_Assets_0
+    21300002: Ground_Assets_1
+    21300004: Ground_Assets_2
+    21300006: Ground_Assets_3
+    21300008: Ground_Assets_4
+    21300010: Ground_Assets_5
+    21300012: Ground_Assets_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ground_Assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1645
+        width: 1283
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -135.56952}
+        - {x: 9.5, y: -134.56952}
+        - {x: 181.5, y: -134.56952}
+        - {x: 182.5, y: -135.56952}
+        - {x: 187.5, y: -135.56952}
+        - {x: 189.5, y: -134.56952}
+        - {x: 190.5, y: -135.56952}
+        - {x: 193.5, y: -135.56952}
+        - {x: 194.5, y: -134.56952}
+        - {x: 196.5, y: -135.56952}
+        - {x: 198.5, y: -135.56952}
+        - {x: 199.5, y: -134.56952}
+        - {x: 238.5, y: -134.56952}
+        - {x: 239.5, y: -133.56952}
+        - {x: 239.5, y: 136.43048}
+        - {x: -239.5, y: 136.43048}
+        - {x: -239.5, y: -134.56952}
+        - {x: -13.5, y: -134.56952}
+        - {x: -12.5, y: -135.56952}
+        - {x: -9.5, y: -135.56952}
+        - {x: -8.5, y: -134.56952}
+        - {x: 3.5, y: -134.56952}
+        - {x: 4.5, y: -135.56952}
+    - name: Ground_Assets_1
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1607
+        width: 1326
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -245.97339, y: 136.26001}
+        - {x: -246.97339, y: 135.26001}
+        - {x: -246.97339, y: -135.73999}
+        - {x: 248.02661, y: -135.73999}
+        - {x: 248.02661, y: 136.26001}
+    - name: Ground_Assets_2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1618
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Assets_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 846
+        width: 1285
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 234.37291, y: 141.47852}
+        - {x: 228.37291, y: 138.47852}
+        - {x: 222.37291, y: 141.47852}
+        - {x: 217.37291, y: 141.47852}
+        - {x: 208.37291, y: 142.47852}
+        - {x: 200.37291, y: 142.47852}
+        - {x: 190.37291, y: 141.47852}
+        - {x: 164.37291, y: 141.47852}
+        - {x: 160.37291, y: 143.47852}
+        - {x: 153.37291, y: 143.47852}
+        - {x: 143.37291, y: 138.47852}
+        - {x: 133.37291, y: 139.47852}
+        - {x: 119.37291, y: 140.47852}
+        - {x: 109.37291, y: 140.47852}
+        - {x: 99.37291, y: 141.47852}
+        - {x: 90.37291, y: 139.47852}
+        - {x: 81.37291, y: 141.47852}
+        - {x: 57.37291, y: 141.47852}
+        - {x: 42.37291, y: 139.47852}
+        - {x: 21.37291, y: 138.47852}
+        - {x: 20.37291, y: 139.47852}
+        - {x: 1.3729095, y: 139.47852}
+        - {x: -6.6270905, y: 140.47852}
+        - {x: -18.62709, y: 141.47852}
+        - {x: -34.62709, y: 141.47852}
+        - {x: -43.62709, y: 140.47852}
+        - {x: -44.62709, y: 139.47852}
+        - {x: -73.62709, y: 139.47852}
+        - {x: -73.62709, y: 141.47852}
+        - {x: -87.62709, y: 140.47852}
+        - {x: -97.62709, y: 139.47852}
+        - {x: -109.62709, y: 141.47852}
+        - {x: -141.62709, y: 141.47852}
+        - {x: -152.62709, y: 142.47852}
+        - {x: -163.62709, y: 142.47852}
+        - {x: -166.62709, y: 143.47852}
+        - {x: -182.62709, y: 143.47852}
+        - {x: -186.62709, y: 142.47852}
+        - {x: -186.62709, y: 143.47852}
+        - {x: -197.62709, y: 143.47852}
+        - {x: -200.62709, y: 142.47852}
+        - {x: -202.62709, y: 143.47852}
+        - {x: -217.62709, y: 143.47852}
+        - {x: -222.62709, y: 141.47852}
+        - {x: -225.62709, y: 138.47852}
+        - {x: -229.62709, y: 129.47852}
+        - {x: -238.62709, y: 129.47852}
+        - {x: -239.62709, y: 128.47852}
+        - {x: -239.62709, y: -142.52148}
+        - {x: 240.37291, y: -142.52148}
+        - {x: 240.37291, y: 140.47852}
+        - {x: 239.37291, y: 141.47852}
+    - name: Ground_Assets_4
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 843
+        width: 1298
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242.0069, y: 136.3598}
+        - {x: -242.0069, y: -135.6402}
+        - {x: 242.9931, y: -135.6402}
+        - {x: 242.9931, y: 136.3598}
+    - name: Ground_Assets_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 1285
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -239.50838, y: 135}
+        - {x: -239.50838, y: -135}
+        - {x: 240.49162, y: -135}
+        - {x: 240.49162, y: 135}
+    - name: Ground_Assets_6
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 52
+        width: 1326
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -246.97339, y: 136.39111}
+        - {x: -246.97339, y: -135.60889}
+        - {x: 248.02661, y: -135.60889}
+        - {x: 248.02661, y: 136.39111}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
